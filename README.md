@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently a first-year Ph.D. student at Computer Vision Institute (CVI), Shenzhen University, and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en) is my advisor.
+
+
 
 <!--
 **wxqlab/wxqlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
