@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently a first-year Ph.D. student at Computer Vision Institute (CVI), Shenzhen University, and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en) is my advisor.
-- 🌱 My current research interest is computer vision, mainly focus on the semantic segmentation with multiple modal information.
+- 🔭 I’m currently a first-year PhD student at Computer Vision Institute (CVI), Shenzhen University, and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en) is my advisor.
+- 🌱 My current research interest is computer vision, mainly focusing on semantic segmentation with multiple-modal information.
 
 
 
